@@ -3,7 +3,7 @@ import 'package:esys_flutter_share/esys_flutter_share.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 
-
+//flutter app for covid sheild
 class DataDetails extends StatelessWidget{
   final Data data;
   DataDetails(this.data);
@@ -41,7 +41,7 @@ class DataDetails extends StatelessWidget{
           padding: const EdgeInsets.fromLTRB(10, 130, 10, 90),
           child: Card(
             shape: RoundedRectangleBorder(
-              borderRadius: BorderRadius.circular(15.0),
+              borderRadius: BorderRadius.circular(16.0),
             ),
             elevation: 0,
             color: Colors.white.withOpacity(.6),
