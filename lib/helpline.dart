@@ -68,7 +68,7 @@ class Helpno extends StatelessWidget {
                                 color: Colors.white
                             ),),
                             SelectableText('${data[position].helpno}',style: TextStyle(
-                                fontSize: 19,
+                                fontSize: 18.5,
                                 color: Colors.white
                             ),)
                           ],
